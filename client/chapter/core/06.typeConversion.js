@@ -58,7 +58,7 @@ console.log(num * 1);
 
 
 // numeric string
-let width = '32.23120px';
+let width = '32.231200000px';
 
 console.log(parseFloat(width,10));
 
@@ -72,7 +72,7 @@ console.log(parseFloat(width,10));
 
 
 console.log(Boolean(123));
-console.log(!!null);
+console.log(!null);
 
 
 
