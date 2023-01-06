@@ -9,7 +9,7 @@ const MORNING = '아침',
   LATE_NIGHT = '심야',
   DAWN = '새벽';
 
-let thisTime = DAWN;
+let thisTime = MORNING;
 
 /* 다양한 상황에 맞게 처리 --------------------------------------------------- */
 
