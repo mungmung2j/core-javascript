@@ -144,7 +144,14 @@ console.assert(rem('56px',10) === '5.6rem');
 
 
 
+let userName = 'John';
 
+function showMessage() {
+  let message = 'Hello, ' + userName;
+  alert(message);
+}
+
+showMessage(); // Hello, John
 
 
 
