@@ -170,9 +170,6 @@ showMessage(); // Hello, John
 
 
 
-
-
-
 // css(node: string, prop: string, value: number|strung) : string;
 let css;
 

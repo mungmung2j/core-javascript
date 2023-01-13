@@ -170,3 +170,8 @@ function sumSalaries(department) {
     return sum;
   }
 }
+
+sayHi("Jm");
+function sayHi(name){
+  alert(`Hello, ${name}`);
+}
