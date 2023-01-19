@@ -1,3 +1,6 @@
+
+
+
 const defaultOptions = {
   method: 'GET',
   mode: 'cors',
@@ -67,6 +70,39 @@ tiger.delete = (url,options) =>{
     ...options
   })
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

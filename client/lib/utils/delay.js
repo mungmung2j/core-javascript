@@ -1,3 +1,4 @@
+
 import { getNode } from '../dom/getNode.js'
 import { isNumber,isObject } from './typeOf.js'
 
@@ -114,6 +115,7 @@ function delayA(){
     resolve('완료')
   })
 }
+
  */
 
 async function delayA(){
@@ -159,6 +161,30 @@ async function 라면끓이기(){
 
 
 // 라면끓이기()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
